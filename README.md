@@ -1,10 +1,10 @@
 # lab2web
 
-Nama : Syifa Aurellia Rahma
+Nama : Tiara Putri
 
-NIM  : 312210009
+NIM  : 312210064
 
-Kelas : TI.22.A1
+Kelas : TI.22.A.1
 
 ## DAFTAR ISI <br>
 | No | Description | Link |
